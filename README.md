@@ -11,8 +11,11 @@ The Dataset Contains user comments collected from different platforms, with labe
 The Dataset Consists of three columns.
 
 -Platform: The platform from which the comment was collected.
+
 -Comment: The text of the user comment.
+
 -Hateful: Label indicating whether the comment is hateful (1) or not (0).
+
 
 -Source : Kaggle
 
